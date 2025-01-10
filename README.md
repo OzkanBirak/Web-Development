@@ -43,7 +43,7 @@ The course includes **16+ portfolio-ready projects** ranging from simple static 
 
 ## About Me
 
-Hi! I’m **OzkanBirak**, a passionate developer exploring the world of web development. Through this course and this repository, I aim to gain the skills to create modern, robust, and impactful web applications. Follow my journey and feel free to reach out for collaboration or feedback!  
+Hi! I’m **OzkanBirak**, a passionate developer exploring the world of web development. Through this course and this repository, I aim to gain the skills to create modern, robust, efficient and impactful web applications. Follow my journey and feel free to reach out for collaboration or feedback!  
 
 Connect with me on [GitHub](https://github.com/OzkanBirak) or [LinkedIn](https://www.linkedin.com/in/ozkan-birak/)
 
